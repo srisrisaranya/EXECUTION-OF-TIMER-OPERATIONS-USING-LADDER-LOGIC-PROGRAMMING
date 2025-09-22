@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : SARANYA S
+ #### REGISTER NUMBER :212223110044
+ #### DEPARTMENT : IOT
+ #### YEAR : III
 
  
 # Aim:
@@ -82,15 +82,17 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+<img width="1312" height="497" alt="image" src="https://github.com/user-attachments/assets/8937fd6c-b0c4-409c-ae40-adcc4555a1b0" />
 
+<img width="742" height="672" alt="image" src="https://github.com/user-attachments/assets/c5bd21eb-3e52-4c18-98e5-03fa49879af2" />
 
+<img width="877" height="800" alt="image" src="https://github.com/user-attachments/assets/90d09498-e5b1-4c98-ab07-f770de9c5d41" />
 
+<img width="737" height="679" alt="image" src="https://github.com/user-attachments/assets/69c8dad6-a74c-456a-83a6-cc5f038b9559" />
 
+<img width="1007" height="580" alt="image" src="https://github.com/user-attachments/assets/58e342c8-9570-4b18-8929-e3bc350301fa" />
 
-
-
-
-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d95dbe22-280c-491e-9aaa-b2c12bad9e1b" />
 
 
 
